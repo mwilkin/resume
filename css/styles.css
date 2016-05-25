@@ -1,0 +1,17 @@
+.main{
+  font-family: monospace;
+  font-size: 16px;
+}
+
+.contact{
+  text-align: center;
+  font-weight: bold;
+}
+
+.list{
+  font-weight: normal;
+}
+
+ul {
+   list-style: square;
+}
